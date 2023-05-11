@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://t.me/azawert1337" target="_blank">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png alt=telegram style="margin-bottom: 5px;" />
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg alt=telegram style="margin-bottom: 5px;width: 50px" />
 </a>
 <a href="https://www.linkedin.com/in/igor-badurkin-395353253/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
