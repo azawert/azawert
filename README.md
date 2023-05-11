@@ -1,16 +1,17 @@
-
-  ### <div align="center">I'm Igor, a full-time frontend developer 👨‍💻 </div>  
-    
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Меня зовут Игорь, и я занимаюсь фронт-энд разработкой.👨‍💻
+- ⚡ Обожаю писать собственные фулл-стак пет-проекты. Вот некоторые из них:
+     1) Онлайн социальная сеть - https://github.com/azawert/social_app_vk. Технологии, которые я использовал при разработке для бекенд части: express.js, typescript, postgreSql, prisma, multer, jwt, bcrypt.           Для фронтенд части были использованы: React, typescript, redux-toolkit, axios, react-query, Chakra-UI, react-hook-form.
+     2) Приложение для тренировок - https://github.com/azawert/workout-app. Технологии, которые я использовал при разработке для бекенд части: express.js, typescript, postgreSql, prisma, multer, jwt, bcrypt.
+        Для фронтенд части были использованы: React, typescript, Context , axios, react-query,react-hook-form.
+     3) Онлайн кинотеатр - бэкенд расположен в репозитории https://github.com/azawert/onlinecinemabackend - фронтенд в репозитории https://github.com/azawert/frontcinema. Для бекенда использовались такие технологии, как: NestJS, bcrypt, mongodb, mongoose, passportjs. Для фронтенда были использованы: NextJS, redux-toolkit, tailwindCSS, react-hook-form, react-query,react-redux-toastr и др.
+     4) Онлайн блог - бекенд расположен в репозитории https://github.com/azawert/blog - фронтенд в репозитории https://github.com/azawert/frontend-blog. Для бекенда были использованы технологии: express.js, jwt, mongodb,mongoose, multer. Для фронтенда были использованы технологии: react, javascript, axios, react-hook-form, MaterialUI, react-markdown, redux-toolkit.
+     5) Онлайн магазин с админ панелью для добавления товаров - бекенд расположен в репозитории - https://github.com/azawert/shop_back_part/ - использовались технологии: express.js, jwt, postgresql, sequilize, express-fileupload. Для фронтенда были использованы технологии: react, react-query,axios, react-hook-form, mobx, react-bootstrap
+      
 
 <br/>  
 
 
-## My Skill Set  
+## Мой стэк 
 <table><tr><td valign="top" width="33%">
 
 
@@ -53,13 +54,15 @@
 <br/>  
 
 
-## Connect with me  
+## Найти меня в соц. сетях
 <div align="center">
 <a href="https://github.com/azawert" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-
+<a href="https://t.me/azawert1337" target="_blank">
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png alt=telegram style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.linkedin.com/in/igor-badurkin-395353253/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
