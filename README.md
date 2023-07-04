@@ -9,6 +9,7 @@
      5) Онлайн магазин с админ панелью для добавления товаров - бекенд расположен в репозитории - https://github.com/azawert/shop_back_part/ - использовались технологии: express.js, jwt, postgresql, sequilize, express-fileupload. Для фронтенда были использованы технологии: react, react-query,axios, react-hook-form, mobx, react-bootstrap. Также были реализованы возможность авторизации/регистрации, админ панель для создания категорий товаров и самих товаров, возможность сортировки по бренду/категории, пагинация, поиск по товарам. Возможность добавить товар в корзину. Была реилзована сама корзина
      6) Онлайн приложение содержащие в себе отображение постов из api, комментарии и личные страницы пользователей. Выполнено с помощью - react,typescript, redux, redux-saga, axios, react-bootstrap.
          https://github.com/azawert/online_posts
+     7) Онлайл система букинга которая позволяет зарезервировать какой либо участок для проживания. https://github.com/azawert/booking_clone - использовались технологии: mongodb,prisma,nextJS,axios,react-hook-form,zustand,tailwindCSS
 
 <br/>  
 
