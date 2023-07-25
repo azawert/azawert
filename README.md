@@ -10,6 +10,7 @@
      6) Онлайн приложение содержащие в себе отображение постов из api, комментарии и личные страницы пользователей. Выполнено с помощью - react,typescript, redux, redux-saga, axios, react-bootstrap.
          https://github.com/azawert/online_posts
      7) Онлайл система букинга которая позволяет зарезервировать какой либо участок для проживания. https://github.com/azawert/booking_clone - использовались технологии: mongodb,prisma,nextJS,axios,react-hook-form,zustand,tailwindCSS
+     8) Клон reddit реализован с помощью NextJS,prisma,mysql,redis,react-query,tailwindcss,shadcn-ui,react server components,react-hook-form,axios - https://github.com/azawert/creddit
 
 <br/>  
 
