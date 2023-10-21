@@ -6,7 +6,7 @@
      3) Онлайн приложение содержащие в себе отображение постов из api, комментарии и личные страницы пользователей. Выполнено с помощью - react,typescript, redux, redux-saga, axios, react-bootstrap.
          https://github.com/azawert/online_posts, задеплоенное приложение: https://online-posts.vercel.app/
      4) Онлайл система букинга которая позволяет зарезервировать какой либо участок для проживания. https://github.com/azawert/booking_clone - использовались технологии: mongodb,prisma,nextJS,axios,react-hook-form,zustand,tailwindCSS , задеплоенное приложение: https://booking-clone-9w9e.vercel.app/
-     5) Клон reddit реализован с помощью NextJS,prisma,mysql,redis,react-query,tailwindcss,shadcn-ui,react server components,react-hook-form,axios - https://github.com/azawert/creddit, задеплоенное приложение: https://creddit-hazel.vercel.app/
+     5) Клон reddit реализован с помощью NextJS,prisma,mysql,redis,react-query,tailwindcss,shadcn-ui,react server components,react-hook-form,axios - https://github.com/azawert/creddit, задеплоенное приложение: https://creddit-hazel.vercel.app/ (prod не работает из-за того, что upstash удалил мою базу данных из-за низкой активности. Прод версия соответственно больше не будет работать, но исходный код на месте)
 
 <br/>  
 
